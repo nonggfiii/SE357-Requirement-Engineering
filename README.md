@@ -9,7 +9,8 @@
 1/ MSc. Nguyen Trinh Dong - Email: dongnt@uit.edu.vn <br><br>
 2/ MSc. Vu Tuan Hai - [Github](https://github.com/vutuanhai237)
 
-### **Description**: The "NamNhaLam" e-commerce website is an online platform designed for buying and selling products. It provides various features and functionalities to facilitate the shopping experience for users.
+### **Description**
+The "NamNhaLam" e-commerce website is an online platform designed for buying and selling products. It provides various features and functionalities to facilitate the shopping experience for users.
 
 ### **How to use**: <br>
 To use the website, users can perform the following actions:
@@ -39,8 +40,11 @@ To use the website, users can perform the following actions:
 - Manage Category: Sellers or administrators can create and manage product categories, organizing products for easy navigation and search.
 
 - Manage Order: Sellers or administrators can view and manage orders placed by customers, including order status updates, tracking information, and order fulfillment. <br>
-### **Additional information**: The website is designed to be accessed and used online, with compatibility for various web browsers and devices.
+### **Additional information**
+The website is designed to be accessed and used online, with compatibility for various web browsers and devices.
 
-### **Code of conducting**: Regarding the code of conduct, it should align with ethical and legal guidelines. This includes respecting user privacy, protecting personal information, ensuring secure transactions, and complying with applicable laws and regulations related to e-commerce operations.
+### **Code of conducting**
+Regarding the code of conduct, it should align with ethical and legal guidelines. This includes respecting user privacy, protecting personal information, ensuring secure transactions, and complying with applicable laws and regulations related to e-commerce operations.
 
-### **License**: No License
+### **License**: 
+No License
